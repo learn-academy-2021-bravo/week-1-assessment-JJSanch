@@ -7,7 +7,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is a function? Why would you use one?
 
-  Your answer:
+  Your answer: A function is used to provide a formula and parameters to provide an expected output from a probvided input
 
   Researched answer:
 
