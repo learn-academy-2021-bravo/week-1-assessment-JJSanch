@@ -7,7 +7,7 @@
 
 // 1. What is a function? Why would you use one?
 
-//   Your answer: A function is used to provide a formula and parameters to provide an expected output from a probvided input
+//   Your answer: A function is used to provide a formula and parameters to provide an expected output from a provided input
 
 //   Researched answer: Reusable pieces of code that only execute when invoked and always return an output.
 
